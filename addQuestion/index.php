@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
+    <p><strong>Add A question Here</strong></p>
     <form action="" method="post">
     <input type="text" name="question" required>
     <input type="text" name="optn1" required>
